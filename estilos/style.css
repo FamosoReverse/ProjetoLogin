@@ -56,3 +56,10 @@ section#login > div#form{
     input
 }
 
+div#form > h1{
+    text-align: center;
+}
+
+div#form > p {
+    font-size: 0.8em;
+}
