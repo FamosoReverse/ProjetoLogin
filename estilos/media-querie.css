@@ -26,6 +26,11 @@
     div#form > p {
         font-size: 1.3em;
     }
+
+    form  label {
+        display: inline;
+        color: white;
+    }
     
 }
 
@@ -57,5 +62,9 @@
 
     div#form > p {
         font-size: 2em;
+    }
+    form  label {
+        display: inline;
+        color: white;
     }
 }
